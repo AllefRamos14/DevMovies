@@ -1,33 +1,23 @@
 # 🎬 DevMovies
 
-Aplicação web para listar, navegar e visualizar detalhes de filmes, com interface moderna estilo streaming.
+DevMovies é uma aplicação web inspirada em plataformas de streaming, onde é possível explorar filmes, visualizar detalhes, navegar entre conteúdos e ter uma experiência moderna e responsiva.
 
+## 📚 Funcionalidades
 
-📚 Funcionalidades
+- Listagem de filmes
+- Página de detalhes do filme
+- Navegação por rotas
+- Slider de filmes
+- Interface responsiva
+- Consumo de API de filmes
 
-Listagem de filmes
+## 🧠 Aprendizados
 
-Página de detalhes do filme
-
-Navegação por rotas
-
-Slider de filmes
-
-Interface responsiva
-
-Consumo de API de filmes
-
-🧠 Aprendizados
-
-Consumo de API com Axios
-
-Organização de componentes no React
-
-Uso de rotas com React Router
-
-Estilização com styled-components
-
-Padronização de código com ESLint e Prettier
+- Consumo de API com Axios
+- Organização de componentes no React
+- Uso de rotas com React Router
+- Estilização com styled-components
+- Padronização de código com ESLint e Prettier
 
 ## 🚀 Tecnologias usadas
 
@@ -40,7 +30,6 @@ Padronização de código com ESLint e Prettier
 - ESLint + Prettier
 - Yarn
 
-## 📸 Preview
 
 > Em breve prints da aplicação aqui 😉
 
