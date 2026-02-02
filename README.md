@@ -31,7 +31,16 @@ DevMovies é uma aplicação web inspirada em plataformas de streaming, onde é 
 - Yarn
 
 
-> Em breve prints da aplicação aqui 😉
+## 📸 Preview
+
+### 🏠 Tela de Home
+![Tela de Home](./public/tela-de-home.png)
+
+### 🎬 Tela de Filmes
+![Tela de Filmes](./public/tela-de-filmes.png)
+
+### 📺 Tela de Séries
+![Tela de Séries](./public/tela-de-series.png)
 
 ## 🛠️ Como rodar o projeto
 
