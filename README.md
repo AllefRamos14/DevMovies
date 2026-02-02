@@ -44,7 +44,7 @@ DevMovies é uma aplicação web inspirada em plataformas de streaming, onde é 
 
 ## 🎥 Demonstração em vídeo
 
-<video src="./public/devmovies-demo.mp4" controls width="700"></video>
+[▶️ Clique aqui para assistir ao vídeo de demonstração](./public/devmovies-demo.mp4)
 
 ## 🛠️ Como rodar o projeto
 
