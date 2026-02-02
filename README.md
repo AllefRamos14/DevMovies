@@ -2,6 +2,33 @@
 
 Aplicação web para listar, navegar e visualizar detalhes de filmes, com interface moderna estilo streaming.
 
+
+📚 Funcionalidades
+
+Listagem de filmes
+
+Página de detalhes do filme
+
+Navegação por rotas
+
+Slider de filmes
+
+Interface responsiva
+
+Consumo de API de filmes
+
+🧠 Aprendizados
+
+Consumo de API com Axios
+
+Organização de componentes no React
+
+Uso de rotas com React Router
+
+Estilização com styled-components
+
+Padronização de código com ESLint e Prettier
+
 ## 🚀 Tecnologias usadas
 
 - React
