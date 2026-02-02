@@ -42,6 +42,10 @@ DevMovies é uma aplicação web inspirada em plataformas de streaming, onde é 
 ### 📺 Tela de Séries
 <img src="./public/tela-de-series.png" alt="Tela de series" width="600"/>
 
+## 🎥 Demonstração em vídeo
+
+<video src="./public/devmovies-demo.mp4" controls width="700"></video>
+
 ## 🛠️ Como rodar o projeto
 
 1 = Instale as dependências
