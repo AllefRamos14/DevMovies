@@ -42,8 +42,7 @@ border-radius: 10px;/>
 border-radius: 10px;/>
 
 ### 📺 Tela de Séries
-<img src="./public/tela-de-series.png" alt="Tela de series" width="600" border: none;
-border-radius: 10px;/>
+<img src="./public/tela-de-series.png" alt="Tela de series" width="600" border=none border-radius=10px/>
 
 ## 🛠️ Como rodar o projeto
 
