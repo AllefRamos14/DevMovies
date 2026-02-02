@@ -19,6 +19,15 @@ Aplicação web para listar, navegar e visualizar detalhes de filmes, com interf
 
 ## 🛠️ Como rodar o projeto
 
+1 = Instale as dependências
+    yarn install
+
+2 = Rode o projeto
+    yarn dev
+
+3 = O projeto vai abrir em algo como:
+    http://localhost:5173
+
 ### 1️⃣ Clone o repositório
 
 ```bash
