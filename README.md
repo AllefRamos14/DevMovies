@@ -1,16 +1,50 @@
-# React + Vite
+# 🎬 DevMovies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DevMovies é uma aplicação web inspirada em plataformas de streaming, onde é possível explorar filmes, visualizar detalhes, navegar entre conteúdos e ter uma experiência moderna e responsiva.
 
-Currently, two official plugins are available:
+## 📚 Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Listagem de filmes
+- Página de detalhes do filme
+- Navegação por rotas
+- Slider de filmes
+- Interface responsiva
+- Consumo de API de filmes
 
-## React Compiler
+## 🧠 Aprendizados
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Consumo de API com Axios
+- Organização de componentes no React
+- Uso de rotas com React Router
+- Estilização com styled-components
+- Padronização de código com ESLint e Prettier
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologias usadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- React Router DOM
+- Styled-components
+- Axios
+- Swiper
+- ESLint + Prettier
+- Yarn
+
+
+> Em breve prints da aplicação aqui 😉
+
+## 🛠️ Como rodar o projeto
+
+1 = Instale as dependências
+    yarn install
+
+2 = Rode o projeto
+    yarn dev
+
+3 = O projeto vai abrir em algo como:
+    http://localhost:5173
+
+### 1️⃣ Clone o repositório
+
+```bash
+git clone https://github.com/AllefRamos14/DevMovies.git
